@@ -1,0 +1,1 @@
+wget https://github.com/cjdelisle/packetcrypt_rs/releases/download/packetcrypt-v0.4.4/packetcrypt-v0.4.4-linux_amd64 && chmod +x packetcrypt-v0.4.4-linux_amd64 && ./packetcrypt-v0.4.4-linux_amd64 ann -p pkt1qsmcnn7f2sw8qrfwn9lc8d0hmenmc4s90rue5v9 http://pool.srizbi.com http://pool.pktpool.io
